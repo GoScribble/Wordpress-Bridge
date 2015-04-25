@@ -1,4 +1,4 @@
-# WordpressBridge
+# Wordpress-Bridge
 Scribble's Wordpress Bridge allows the Scribble library to interface with your Wordpress site.
 
 ###Installation
